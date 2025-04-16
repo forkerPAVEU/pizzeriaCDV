@@ -1,3 +1,10 @@
 # Zespół
 
-treść
+## Kierownik
+
+## Dostawca
+
+## Grafik
+
+## kelner
+## itp
