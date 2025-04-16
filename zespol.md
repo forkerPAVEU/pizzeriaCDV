@@ -5,3 +5,6 @@
 ## Dostawca
 
 ## Grafik
+
+## kelner
+## itp
