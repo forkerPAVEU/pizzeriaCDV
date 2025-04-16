@@ -1,2 +1,2 @@
-# tralalalala  
-ten plik nalezy do galezi weg
+# cdvcdv
+To jest strona naszej cdvcdv
