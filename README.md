@@ -1,2 +1,2 @@
-# cdvcdvcdv
-ten plik nalezy do galezi main
+# cdvcdv
+To jest strona naszej cdvcdv
